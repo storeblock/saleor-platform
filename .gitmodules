@@ -7,3 +7,4 @@
 [submodule "saleor-dashboard"]
 	path = saleor-dashboard
 	url = https://github.com/storeblock/saleor-dashboard.git
+
